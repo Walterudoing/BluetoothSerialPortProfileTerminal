@@ -12,7 +12,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import app.walter.bluetoothserialportprofileterminal.library.BluetoothSPP;
-import app.walter.bluetoothserialportprofileterminal.OnDataReceivedListener;
+import app.walter.bluetoothserialportprofileterminal.library.BluetoothSPP.OnDataReceivedListener;
 import app.walter.bluetoothserialportprofileterminal.library.BluetoothState;
 import app.walter.bluetoothserialportprofileterminal.library.DeviceList;
 
